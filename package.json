@@ -1,0 +1,11 @@
+{
+  "name": "german-open-data",
+  "version": "0.1.0",
+  "description": "Library for german open data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elina Schäfer",
+  "license": "MIT"
+}
